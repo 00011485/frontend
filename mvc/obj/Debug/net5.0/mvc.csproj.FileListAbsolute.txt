@@ -38,3 +38,4 @@ D:\CC\frontend_111485\frontend\mvc\obj\Debug\net5.0\mvc.pdb
 D:\CC\frontend_111485\frontend\mvc\obj\Debug\net5.0\mvc.genruntimeconfig.cache
 D:\CC\frontend_111485\frontend\mvc\obj\Debug\net5.0\mvc.csproj.CopyComplete
 D:\CC\frontend_111485\frontend\mvc\obj\Debug\net5.0\mvc.csproj.AssemblyReference.cache
+D:\CC\frontend_111485\frontend\mvc\bin\Debug\net5.0\Newtonsoft.Json.dll
